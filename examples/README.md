@@ -44,7 +44,7 @@ examples/
 
 ---
 
-## Hardware requirements
+## Hardware setup
 
 | Component | Spec |
 |---|---|
